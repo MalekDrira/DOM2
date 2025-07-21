@@ -1,0 +1,31 @@
+/* Center content */
+.container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+/* Color box style */
+#color-box {
+  width: 200px;
+  height: 200px;
+  background-color: lightgray;
+  margin: 20px auto;
+  border: 2px solid #333;
+  border-radius: 10px;
+}
+
+/* Button style */
+#change-color-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#change-color-btn:hover {
+  background-color: #2980b9;
+}
